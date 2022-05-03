@@ -29,6 +29,6 @@
   <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/css.png"/>
+  <img src="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-css-web-seo-prettycons-flat-prettycons.png"/>
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 </p>
