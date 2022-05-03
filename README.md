@@ -9,9 +9,9 @@
 - I’m currently learning Computer Engineer
 
 
-Connect with me:
+## Connect with me:
 
-<p align="center">
+<p align="left">
   <a href="https://www.facebook.com/ke.xi.3726/" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
@@ -24,8 +24,11 @@ Connect with me:
 </p>
 
 ## Skills:
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/css.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 </p>
