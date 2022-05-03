@@ -27,5 +27,5 @@ Connect with me:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
-   <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </p>
