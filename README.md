@@ -1,6 +1,5 @@
 <h1 align="center">I'm Phương Nam</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A passionate embedded software engineer </h3>
+<h3 align="center">A passionate embedded software engineer <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> </h3>
 <p align="center"> 
    <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
 </p>
